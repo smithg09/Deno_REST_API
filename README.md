@@ -99,7 +99,7 @@ To run this application you need set some flags due to security concerns built i
 ```sh
 deno run --allow-env --allow-write --allow-read --allow-plugin --allow-net --unstable index.ts
 ```
-This will start the local server on PORT 4000. Port can be changed from `config/environment.ts` file. Once server is started, Test using Postmann
+This will start the local server on PORT 4000. Port can be changed from `config/environment.ts` file. Once server is started, Test using Postman.
 * Available Routes : 
     - /users : GET
     - /user  : POST
