@@ -22,13 +22,19 @@
   </p>
 <p align="center">
 <a href="https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square" alt="LICENSE">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="LICENSE">
 </a>
 <a href="https://github.com/smithg09/Deno_REST_API/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome">
 </a>
 <a href="#">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
+</a>
+<a href="#">
+    <img src="https://badges.frapsoft.com/typescript/code/typescript.svg?v=101" alt="TypeScript">
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Deno-1.0-0%20solid%20%23222222" alt="Deno">
 </a>
 </p>
 </p>
@@ -84,8 +90,8 @@ _View more installation options [here](https://deno.land/#installation)_
 
 3. MongoDB installation 
 
-Download MongoDB Compass [here](https://www.mongodb.com/download-center/compass) 
-Or Download MongoDB Community Server [here](https://www.mongodb.com/download-center/community) 
+        Download MongoDB Compass [here](https://www.mongodb.com/download-center/compass) <br />
+        Or Download MongoDB Community Server [here](https://www.mongodb.com/download-center/community) 
 
 <!-- USAGE EXAMPLES -->
 ### Usage
