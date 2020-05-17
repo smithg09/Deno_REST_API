@@ -21,7 +21,10 @@
 
 <p align="center">
 
-[![license-shield](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square)](https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE)
+<a href="https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square" alt="LICENSE">
+</a>
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/smithg09/Deno_REST_API/issues)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 </p>
@@ -76,7 +79,7 @@ git clone https://github.com/smithg09/Deno_REST_API
     #Using Shell (macOS, Linux):
     curl -fsSL https://deno.land/x/install/install.sh | sh
 ```
-_[View more installation options](https://deno.land/#installation)_
+_View more installation options [here](https://deno.land/#installation)_
 
 3. MongoDB installation 
 
