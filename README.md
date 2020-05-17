@@ -24,9 +24,6 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Deno-1.0-0%20solid%20%23222222" alt="Deno">
 </a>
-<a href="#">
-    <img src="https://badges.frapsoft.com/typescript/code/typescript.svg?v=101" alt="TypeScript">
-</a>
 <a href="https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="LICENSE">
 </a>
