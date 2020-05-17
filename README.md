@@ -9,16 +9,20 @@
 
   <p align="center">
     A REST API for User database developed using new <a href="https://deno.land/">Deno</a> language with mongodb integration. <br />
+    <br />
     Made By <a href="https://smithgajjar.me">Smith Gajjar</a>
     <br />
+    <br />
     <a href="https://deno.land/manual"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
     <br />
     ·
     <a href="https://github.com/smithg09/Deno_REST_API/issues/new?title=Bug%20Report">Report Bug</a>
     ·
     <a href="https://github.com/smithg09/Deno_REST_API/issues/new?title=Feature%20Request">Request Feature</a>
 
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[![license-shield](https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square)](https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/smithg09/Deno_REST_API/issues)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
