@@ -19,17 +19,18 @@
     ·
     <a href="https://github.com/smithg09/Deno_REST_API/issues/new?title=Feature%20Request">Request Feature</a>
 
+  </p>
 <p align="center">
-
 <a href="https://github.com/smithg09/Deno_REST_API/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square" alt="LICENSE">
 </a>
-
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/smithg09/Deno_REST_API/issues)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<a href="https://github.com/smithg09/Deno_REST_API/issues">
+    <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome">
+</a>
+<a href="#">
+    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source">
+</a>
 </p>
-
-  </p>
 </p>
 
 
