@@ -13,6 +13,7 @@ import {
   getUser,
   updateUser,
   deleteUser,
+  ping
 } from "./controllers/UserController.ts";
 
 const router = new Router();
@@ -21,6 +22,7 @@ router.get("/users", getUsers)
   .post("/user", createUser)
   .get("/user/:id", getUser)
   .put("/user/:id", updateUser)
-  .delete("/user/:id", deleteUser);
+  .delete("/user/:id", deleteUser)
+  .get("/ping", ping);
 
 export default router;
