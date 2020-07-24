@@ -1,8 +1,10 @@
 /**
  * @author  Smith Gajjar
- * @version 1.0.0
- * @date    17/05/2020
- * @description    User controllers for all request.
+ * @version 1.0.5
+ * @date    20/05/2020
+ * @description  Route callbacks for user controller.
+ * @interface (UserModel)
+ * @exports {getUsers, getUser, createUser, updateUser, deleteUser }
  */
 
 import { Context } from "https://deno.land/x/oak/mod.ts";
@@ -113,6 +115,20 @@ export const deleteUser = async ({response, params: {id}}: Context | any) => {
     }
     response.status = 404;
     response.body = { message: `user not found` };
+  } catch (error) {
+    response.status = 500;
+    response.body = {
+      error,
+      message: `Internal server error.`,
+    };
+  }
+};
+
+export const ping = async ({response}: Context | any) => {
+  try {
+      response.status = 200;
+      response.body = { status: 200 ,message: "Server Running"};
+      return;
   } catch (error) {
     response.status = 500;
     response.body = {
