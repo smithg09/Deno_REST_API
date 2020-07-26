@@ -1,6 +1,6 @@
 /**
  * @author  Smith Gajjar
- * @version 1.0.0
+ * @version 1.1.0
  * @date    17/05/2020
  * @description    Server & Router Initialization.
  */
