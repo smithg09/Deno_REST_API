@@ -14,9 +14,9 @@
     <br />
     <a href="https://deno.land/manual"><strong>Explore the docs »</strong></a>
     <br />
-    ·
+    🐛
     <a href="https://github.com/smithg09/Deno_REST_API/issues/new?title=Bug%20Report">Report Bug</a>
-    ·
+    📃
     <a href="https://github.com/smithg09/Deno_REST_API/issues/new?title=Feature%20Request">Request Feature</a>
 
   </p>
