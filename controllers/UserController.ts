@@ -127,7 +127,7 @@ export const deleteUser = async ({response, params: {id}}: Context | any) => {
 export const ping = async ({response}: Context | any) => {
   try {
       response.status = 200;
-      response.body = { status: 200 ,message: "Server Running"};
+      response.body = {message: "Server Running"};
       return;
   } catch (error) {
     response.status = 500;
