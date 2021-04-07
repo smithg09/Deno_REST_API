@@ -139,4 +139,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Smith Gajjar - [@linkedin_handle](https://www.linkedin.com/in/smith-gajjar-5a27716b/) - smith.gajjar@gmail.com
 
-Website Link: [smithgajjar.me](https://smithgajjar.me/)
+Website Link: [smithgajjar.me](https://smithgajjar.tech/)
