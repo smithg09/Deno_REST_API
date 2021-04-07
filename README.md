@@ -9,7 +9,7 @@
 
   <p align="center">
     A REST API for User database developed using new <a href="https://deno.land/">Deno</a> language with mongodb integration. <br />
-    Made By <a href="https://smithgajjar.me">Smith Gajjar</a>
+    Made By <a href="https://smithgajjar.tech">Smith Gajjar</a>
     <br />
     <br />
     <a href="https://deno.land/manual"><strong>Explore the docs »</strong></a>
